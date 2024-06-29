@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- I'm **Adebayo Oladeji**`Broyoung`, an aspiring software engineer with foundational knowledge in HTML, CSS and Javascript.
+- I finished the **Freecodecamp's** courses on [Responsive Web Development](https://www.freecodecamp.org/certification/Broyoung4/responsive-web-design),[Javascript Algorithms and Data structures](https://www.freecodecamp.org/certification/Broyoung4/javascript-algorithms-and-data-structures),[Frontend development Libraries](https://www.freecodecamp.org/certification/Broyoung4/front-end-development-libraries)
+- - 🔭 I’m currently working on projects with Javascript frameworks such as *React JS* & *Next Js*, with stylesheets such as *Tailwind Css*, *Sass*, *Vanilla CSS*
+- 🌱 I’m currently learning and building Frontend projects from [Frontend Mentor](https://www.frontendmentor.io/)
 <!--
 **Broyoung4/Broyoung4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
